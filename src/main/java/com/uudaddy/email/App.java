@@ -1,5 +1,7 @@
 package com.uudaddy.email;
 
+// http://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+
 /**
  * Hello world!
  *
